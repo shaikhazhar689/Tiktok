@@ -2,11 +2,11 @@
 
 ## **Project Title: TikTok Video Claim Prediction Model**
 
-### Project Overview
+**Project Overview**
 
 TikTok, a platform dedicated to inspiring creativity and bringing joy, faces the challenge of addressing a large number of user reports related to video content containing claims or opinions. To efficiently handle this influx of reports, TikTok aims to develop a predictive model that can identify whether a video contains a claim. Successful implementation of this model will not only reduce the backlog of user reports but also streamline the content moderation process.
 
-### Task
+**Task**
 
 Data collection and preprocessing of video content reports.
 Exploratory data analysis to understand the dataset.
@@ -14,7 +14,7 @@ Developing a predictive model to classify videos as containing claims or opinion
 Evaluating model performance through metrics like accuracy, precision, recall, and F1-score.
 Optimizing the model using GridSearchCV to fine-tune hyperparameters.
 
-### Tools and Libraries:
+**Tools and Libraries**
 
 Jupyter Notebook,
 Python,
