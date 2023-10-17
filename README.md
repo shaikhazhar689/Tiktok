@@ -28,7 +28,7 @@ RandomForestClassifier,
 XGBClassifier,
 GridSearchCV
 
-## Approach
+**Approach**
 
 Data preprocessing, including text data cleaning and feature extraction.
 
