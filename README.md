@@ -8,11 +8,11 @@ TikTok, a platform dedicated to inspiring creativity and bringing joy, faces the
 
 **Task**
 
-Data collection and preprocessing of video content reports.
-Exploratory data analysis to understand the dataset.
-Developing a predictive model to classify videos as containing claims or opinions.
-Evaluating model performance through metrics like accuracy, precision, recall, and F1-score.
-Optimizing the model using GridSearchCV to fine-tune hyperparameters.
+***Data collection*** and preprocessing of video content reports.
+***Exploratory data analysis*** to understand the dataset.
+Developing a ***predictive model*** to classify videos as containing claims or opinions.
+Evaluating model performance through metrics like ***accuracy, precision, recall, and F1-score***.
+Optimizing the model using ***GridSearchCV to fine-tune hyperparameters***.
 
 **Tools and Libraries**
 
@@ -26,20 +26,21 @@ CountVectorizer,
 scikit-learn,
 RandomForestClassifier,
 XGBClassifier,
+Pickle,
 GridSearchCV
 
 **Approach**
 
-Data preprocessing, including text data cleaning and feature extraction.
+Data preprocessing, including text ***data cleaning and feature extraction***.
 
 Exploratory data analysis to gain insights into the dataset
 
-Splitting the data into training and testing sets.
+Splitting the data into ***training*** and ***testing*** sets.
 
-Model development, using both RandomForest and XGBoost classifiers.
+Model development, using both ***RandomForest*** and ***XGBoost*** classifiers.
 
 Model evaluation, considering metrics like accuracy, precision, recall, and F1-score.
 
-Hyperparameter tuning using GridSearchCV to optimize model performance.
+***Hyperparameter tuning using GridSearchCV*** to optimize model performance.
 
 This project aims to assist TikTok in efficiently managing user reports by automatically identifying videos that contain claims or opinions. Successful implementation of the predictive model will contribute to a smoother content moderation process on the platform.
